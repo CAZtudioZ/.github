@@ -1,2 +1,2 @@
 ## CAZTUDIOZ OFFICIAL GITHUB REPOSITORY
-We save here files of our Websites, Apps, Discord Bots & even our from our Minecraft servers
+The Official Repository for all things CAZtudioZ Developed stuff such as Websites, Apps, Discord Bots & even files from our Multiverze of SMPs Minecraft servers
